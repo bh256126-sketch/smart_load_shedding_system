@@ -1,1 +1,0 @@
-# smart_load_shedding_system
