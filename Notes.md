@@ -1,5 +1,8 @@
 # smart_load_shedding_system
 
+# Canva Ideation and Planning diagram
+    - https://canva.link/s6c1lyocy8xvoqq
+
 # Features and functionality to add
     - User input (To automate the behaviour)
     - Connectivity to a display dashboard
